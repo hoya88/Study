@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">生日贺卡</string>
+    <string name="hello">生日快乐！</string>
+    <string name="lk">你最好的朋友</string>
+    <string name="action_settings" translatable="false">设置</string>
+</resources>

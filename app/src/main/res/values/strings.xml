@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">card</string>
+    <string name="hello">Happy Birthday!</string>
+    <string name="lk">Your best friend</string>
+    <string name="action_settings">setting</string>
+</resources>
