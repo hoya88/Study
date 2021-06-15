@@ -2,4 +2,16 @@
 <resources>
     <item name="toolbar" type="id" />
     <item name="fab" type="id" />
+    <item name="btn_1" type="id" />
+    <item name="btn_2" type="id" />
+    <item name="btn_3" type="id" />
+    <item name="input" type="id" />
+    <item name="result" type="id" />
+    <item name="dollar" type="id" />
+    <item name="euro" type="id" />
+    <item name="won" type="id" />
+    <item name="menu_set" type="id" />
+    <item name="dollar_rate" type="id" />
+    <item name="euro_rate" type="id" />
+    <item name="won_rate" type="id" />
 </resources>

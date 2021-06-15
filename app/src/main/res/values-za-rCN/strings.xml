@@ -3,5 +3,16 @@
     <string name="app_name">生日贺卡</string>
     <string name="hello">生日快乐！</string>
     <string name="lk">你最好的朋友</string>
-    <string name="action_settings" translatable="false">设置</string>
+    <string name="lable_add2">加2分</string>
+    <string name="lable_add3">加3分</string>
+    <string name="lable_add1">加1分</string>
+    <string name="action_ball_settings">设置</string>
+    <string name="app_ball_name">计分程序</string>
+    <string name="title_activity_ball">计分</string>
+    <string name="action_card_settings">设置</string>
+    <string name="reset">重置</string>
+    <string name="score_a_0">a初始分数</string>
+    <string name="team_b">B队</string>
+    <string name="score_b_0">b初始分数</string>
+    <string name="team_a">A队</string>
 </resources>
